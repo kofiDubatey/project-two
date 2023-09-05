@@ -1,2 +1,3 @@
 # project-two
-A qr code generator and a python text to speech app.
+A QR code generator that gives users the opportunity to create a QR code for all kinds of things.
+And a unique back-ending app that gives the speech of everything you type.
